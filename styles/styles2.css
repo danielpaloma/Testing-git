@@ -1,0 +1,56 @@
+/*ESTILO PARA EL MENU */
+
+.column {
+    float: left;
+    width: 33.33%;
+    
+}
+
+.clear{
+	clear: both;
+}
+
+/*ESTILO PARA EL CONTENIDO*/
+
+.C1-left {
+    float: left;
+    width: 40%;
+}
+
+.C1-right {
+    float: right;
+    width: 60%;
+}
+
+
+.centro{
+	text-align: center;
+	padding: 10px;
+}
+
+
+#caja1>h1 {
+	font-family: "Muli", sans-serif;
+	    font-size: 42px;
+}
+
+#caja1 > p{
+	font-family: "Muli", sans-serif;
+	    font-size: 17px;
+}
+
+h1{
+	    font-family: "Muli", sans-serif;
+	    font-size: 32px; 
+}
+
+h2{
+	font-family: "Muli", sans-serif;
+	    font-size: 20px;
+}
+
+p{
+	font-family: "Muli", sans-serif;
+	    font-size: 14px;
+}
+
